@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Unscramble</string>
+    <string name="word_count_preview">1/10</string>
+    <string name="scrambled_word_preview">amred</string>
+    <string name="instructions">Sắp xếp lại các chữ cái để tạo thành từ đúng</string>
+    <string name="enter_word_hint">Nhập từ của bạn</string>
+    <string name="submit_button">Gửi</string>
+    <string name="skip_button">Bỏ qua</string>
+    <string name="score_preview">Điểm: 0</string>
+</resources>
